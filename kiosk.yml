@@ -23,8 +23,8 @@ camera:
   nbCheck: 2
   hardware:
     host: 🔑{JH_CAMERA_HOST}
-    username: 🔑{JH_PASS_CAMERA_USER}
-    password: 🔑{JH_PASS_CAMERA_PASS}
+    username: 🔑{JH_CAMERA_USER}
+    password: 🔑{JH_CAMERA_PASS}
     position:
       left: 1700
       down: 150
