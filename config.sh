@@ -2,6 +2,8 @@
 
 export JH_SECRET_MARK="🔒"
 
+export JH_CONFIG_TEST="test"
+
 # pcloud shared-root app
 # configured here: https://docs.pcloud.com/my_apps/
 export JH_PASS_PCLOUD_RO_CLIENT_ID="🔒U2FsdGVkX19hW7/a8hxb6X+/xWEaRAylMx4Y78laL8Y="
