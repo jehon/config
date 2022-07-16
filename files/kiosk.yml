@@ -52,5 +52,5 @@ fire:
   cron: "0 19 * 1-2,11-12 *"
   duration: 150
   type: "video/mp4"
-  url: "/mnt/pcloud/System_kiosk/fire.720.mp4"
+  url: "/mnt/cloud/System_kiosk/fire.720.mp4"
 #  url: "/media/kiosk/fire.mp4"
