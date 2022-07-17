@@ -19,7 +19,7 @@ server:
     - /var/cache/jehon/photos
 
 photo-frame:
-  folder: /var/jehon/photos/
+  folder: /var/cache/jehon/photos/
 
 camera:
   intervalSeconds: 15
