@@ -15,8 +15,7 @@ server:
   path:
     var: /tmp/
   expose:
-    - /media
-    - /mnt
+    - /mnt/Système_kiosk
     - /var/cache/jehon/photos
 
 photo-frame:
