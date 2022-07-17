@@ -17,7 +17,7 @@ server:
   expose:
     - /media
     - /mnt
-    - /var/jehon/photos
+    - /var/cache/jehon/photos
 
 photo-frame:
   folder: /var/jehon/photos/
